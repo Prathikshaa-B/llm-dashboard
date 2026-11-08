@@ -19,4 +19,12 @@
     "question": "What does SQL stand for?",
     "expected": "Structured Query Language"
   }
+  {
+  "question": "Explain the difference between a process and a thread.",
+  "expected": "A process has its own memory space; threads share memory within a process."
+},
+{
+  "question": "Why is HTTP called stateless?",
+  "expected": "Each request is independent; the server does not remember previous requests."
+}
 ]

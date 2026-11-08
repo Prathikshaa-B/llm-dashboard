@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "expected": "Central Processing Unit",
+    "prompt_name": "prompt_A",
+    "answer": "**CPU** stands for **Central Processing Unit**.",
+    "score": 5,
+    "reason": "The answer is completely accurate, direct, and clearly stated."
+  },
+  {
+    "question": "What does CPU stand for?",
+    "expected": "Central Processing Unit",
+    "prompt_name": "prompt_B",
+    "answer": "CPU stands for Central Processing Unit.",
+    "score": 5,
+    "reason": "The answer accurately and clearly provides the exact expansion of CPU."
+  },
+  {
+    "question": "Which data structure uses LIFO order?",
+    "expected": "Stack",
+    "prompt_name": "prompt_A",
+    "answer": "The **Stack** data structure uses LIFO (Last-In, First-Out) order.",
+    "score": 5,
+    "reason": "The answer is completely accurate, directly addresses the question, and clearly identifies the stack."
+  },
+  {
+    "question": "Which data structure uses LIFO order?",
+    "expected": "Stack",
+    "prompt_name": "prompt_B",
+    "answer": "A stack is the data structure that uses LIFO (Last-In, First-Out) order.",
+    "score": 5,
+    "reason": "The answer correctly and clearly identifies the stack as the data structure using LIFO order."
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "expected": "O(log n)",
+    "prompt_name": "prompt_A",
+    "answer": "The time complexity of binary search is:\n\n* **Worst-case:** $O(\\log n)$\n* **Average-case:** $O(\\log n)$\n* **Best-case:** $O(1)$ (when the target element is found at the middle index on the first step)\n\nIn general, the time complexity is stated as **$O(\\log n)$**.",
+    "score": 5,
+    "reason": "The answer is completely correct, clearly providing the general time complexity along with accurate details for each case."
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "expected": "O(log n)",
+    "prompt_name": "prompt_B",
+    "answer": "The time complexity of binary search is O(log n).",
+    "score": 5,
+    "reason": "The answer directly and accurately states the correct time complexity."
+  },
+  {
+    "question": "Which protocol is used to load web pages securely?",
+    "expected": "HTTPS",
+    "prompt_name": "prompt_A",
+    "answer": "The protocol used to load web pages securely is **HTTPS** (Hypertext Transfer Protocol Secure).",
+    "score": 5,
+    "reason": "The answer accurately and directly identifies HTTPS as the secure protocol."
+  },
+  {
+    "question": "Which protocol is used to load web pages securely?",
+    "expected": "HTTPS",
+    "prompt_name": "prompt_B",
+    "answer": "HTTPS (Hypertext Transfer Protocol Secure) is used to load web pages securely.",
+    "score": 5,
+    "reason": "The answer is fully correct, clear, and accurately provides the requested protocol along with its full name."
+  },
+  {
+    "question": "What does SQL stand for?",
+    "expected": "Structured Query Language",
+    "prompt_name": "prompt_A",
+    "answer": "SQL stands for **Structured Query Language**.",
+    "score": null,
+    "reason": "judge failed"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "expected": "Structured Query Language",
+    "prompt_name": "prompt_B",
+    "answer": "SQL stands for Structured Query Language.",
+    "score": 5,
+    "reason": "The answer is completely accurate and clearly states what SQL stands for."
+  }
+]
