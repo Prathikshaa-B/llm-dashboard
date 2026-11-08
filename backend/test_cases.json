@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "expected": "Central Processing Unit"
+  },
+  {
+    "question": "Which data structure uses LIFO order?",
+    "expected": "Stack"
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "expected": "O(log n)"
+  },
+  {
+    "question": "Which protocol is used to load web pages securely?",
+    "expected": "HTTPS"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "expected": "Structured Query Language"
+  }
+]
